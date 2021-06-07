@@ -1,6 +1,8 @@
 # stripe-checkout-form
 
-Clone the repo.
+Clone the repo. Navigate into the repo.
+
+Run >gem install.  (run sudo gem install, if gem install fails).
 
 Run the app locally with > ruby app.rb
 
